@@ -78,7 +78,7 @@ button{
 }
 
 /* media queries */
-/* screen size is between 768 & 991 */
+
 @media only screen and (min-width:768px)  and (max-width:991px) {
 
     button{
@@ -86,7 +86,7 @@ button{
      }
 }
 
-/* flex wrap if the screen size is less than 768px */
+
 @media only screen and (max-width:768px)  {
 .container {
     flex-wrap: wrap;
